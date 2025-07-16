@@ -32,7 +32,7 @@ This Tableau dashboard presents an in-depth analysis of Netflix content, leverag
 
 ## 📂 Dataset
 
-The data used comes from the [Netflix Titles Dataset on Kaggle]([https://www.kaggle.com/datasets/shivamb/netflix-shows](https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/netflix_titles.csv)).
+The data used comes from the [Netflix Titles Dataset on Kaggle](https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/netflix_titles.csv)
 
 - File: `netflix_titles.csv`
 - Columns: Title, Type, Country, Genre, Date Added, Rating, Duration, etc.
@@ -45,6 +45,6 @@ The data used comes from the [Netflix Titles Dataset on Kaggle]([https://www.kag
 
 ## 🔗 Live Dashboard (Hosted on Tableau Public)
 
-👉 [Click here to view the interactive dashboard]([https://public.tableau.com/app/profile/yourusername/viz/NetflixAnalysis/Dashboard1](https://public.tableau.com/views/NetflixAnalysis_17524381719000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+👉 [Click here to view the interactive dashboard](https://public.tableau.com/views/NetflixAnalysis_17524381719000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
